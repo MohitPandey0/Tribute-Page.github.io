@@ -1,7 +1,5 @@
 <div align="center">
-  
-  ![GitHub repo size](https://mohitpandey0.github.io/Tribute-Page.github.io/)
- 
+   
   <br />
   <br />
 
